@@ -1,0 +1,9 @@
+*.jpg
+*.json
+*.dylib
+/build
+/dist
+/__pycache__
+/venv
+/.DS_Store
+/.idea
